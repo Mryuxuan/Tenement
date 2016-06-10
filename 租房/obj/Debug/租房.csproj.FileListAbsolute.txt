@@ -1,0 +1,33 @@
+C:\Users\Mr yu\Desktop\租房\租房\bin\租房.dll
+C:\Users\Mr yu\Desktop\租房\租房\bin\租房.pdb
+C:\Users\Mr yu\Desktop\租房\租房\obj\Debug\租房.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\租房\租房\obj\Debug\租房.dll
+C:\Users\Mr yu\Desktop\租房\租房\obj\Debug\租房.pdb
+C:\Users\Mr yu\Desktop\租房\租房\bin\BLL.dll
+C:\Users\Mr yu\Desktop\租房\租房\bin\Modal.dll
+C:\Users\Mr yu\Desktop\租房\租房\bin\DAL.dll
+C:\Users\Mr yu\Desktop\租房\租房\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\租房\租房\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\租房\租房\bin\DAL.pdb
+I:\租房\租房\bin\租房.dll
+I:\租房\租房\bin\租房.pdb
+I:\租房\租房\bin\BLL.dll
+I:\租房\租房\bin\Modal.dll
+I:\租房\租房\bin\DAL.dll
+I:\租房\租房\bin\BLL.pdb
+I:\租房\租房\bin\Modal.pdb
+I:\租房\租房\bin\DAL.pdb
+I:\租房\租房\obj\Debug\租房.csprojResolveAssemblyReference.cache
+I:\租房\租房\obj\Debug\租房.dll
+I:\租房\租房\obj\Debug\租房.pdb
+H:\租房\租房\bin\租房.dll
+H:\租房\租房\bin\租房.pdb
+H:\租房\租房\bin\BLL.dll
+H:\租房\租房\bin\Modal.dll
+H:\租房\租房\bin\DAL.dll
+H:\租房\租房\bin\BLL.pdb
+H:\租房\租房\bin\Modal.pdb
+H:\租房\租房\bin\DAL.pdb
+H:\租房\租房\obj\Debug\租房.csprojResolveAssemblyReference.cache
+H:\租房\租房\obj\Debug\租房.dll
+H:\租房\租房\obj\Debug\租房.pdb

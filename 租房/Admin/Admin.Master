@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="租房.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../easyui/themes/default/easyui.css" rel="stylesheet" />
+    <link href="../easyui/themes/icon.css" rel="stylesheet" />
+    <link href="../easyui/demo.css" rel="stylesheet" />
+    <script src="../easyui/jquery.min.js"></script>
+    <script src="../easyui/jquery.easyui.min.js"></script>
+    <script src="../easyui/easyui-lang-zh_CN.js"></script>    
+    <link href="../CSS/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body class="easyui-layout">
+        <%--<div data-options="region:'north',border:false" style="width: 100%; height: auto; top: 0px; right: 0px; background-color: #DCDDDB;">
+            <div style="width: 100%; height: 100%; top: 0px; right: 0px;" id="bgp" class="images-wrapper">
+                <img src="../images/bgpicture/bg4.jpg" style="width: 100%; height: 600px;" />
+            </div>
+            <div class="images-text">
+                <span style="font-size: 70px; font-family: 华文新魏;">短租</span>
+            </div>
+            </div>--%>
+            <div class="images-button">
+                <a href="javascript:void(0)" id="btnlogin" class="easyui-linkbutton" onclick="$('#dlglogin').dialog('open')">登录</a>
+                <a href="javascript:void(0)" class="easyui-linkbutton" onclick="$('#dlgregister').dialog('open')">注册</a>
+            </div>
+        <div data-options="region:'west',split:true,title:'请选择'" style="width: 200px">
+            <div class="easyui-accordion" data-options="multiple:true" style="width: 193px">
+                <div title="用户管理" data-options="iconCls:'icon-edit'" style="padding: 20px;">
+                    <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">用户添加</a>
+                    <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">用户查询</a>
+                    <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">用户删除</a>
+                    <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">用户修改</a>
+                </div>
+                <div title="城市管理" data-options="iconCls:'icon-edit'" style="padding: 20px;">
+                    <a href="../AddPlace.aspx" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">添加城市</a>
+                    <a href="../AddPlaceInfo.aspx" class="easyui-linkbutton" data-options="plain:true" style="width: 140px; text-align: left">城市详情</a>
+                </div>                
+            </div>
+        </div>
+        <div style="text-align: center; padding-top: 30px; z-index: 1;">
+            <h3>关注我们</h3>
+            <br />
+            <a href="">
+                <img src="../images/foot/微信.png" class="foot" style="width: 40px; height: 40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="">
+                    <img src="../images/foot/微博.png" class="foot" style="width: 40px; height: 40px" /></a>
+            <p style="padding: 100px 0px 0px 0px">@版权所有</p>
+            <br />
+        </div>
+        <div data-options="region:'center',title:'功能'">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+</body>
+</html>

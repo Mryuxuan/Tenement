@@ -1,0 +1,21 @@
+C:\Users\Mr yu\Desktop\租房\DAL\bin\DAL.dll
+C:\Users\Mr yu\Desktop\租房\DAL\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\租房\DAL\bin\Modal.dll
+C:\Users\Mr yu\Desktop\租房\DAL\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\租房\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\租房\DAL\obj\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\租房\DAL\obj\Debug\DAL.pdb
+I:\租房\DAL\bin\DAL.dll
+I:\租房\DAL\bin\DAL.pdb
+I:\租房\DAL\bin\Modal.dll
+I:\租房\DAL\bin\Modal.pdb
+I:\租房\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\租房\DAL\obj\Debug\DAL.dll
+I:\租房\DAL\obj\Debug\DAL.pdb
+H:\租房\DAL\bin\DAL.dll
+H:\租房\DAL\bin\DAL.pdb
+H:\租房\DAL\bin\Modal.dll
+H:\租房\DAL\bin\Modal.pdb
+H:\租房\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\租房\DAL\obj\Debug\DAL.dll
+H:\租房\DAL\obj\Debug\DAL.pdb
